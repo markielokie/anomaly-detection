@@ -2,7 +2,7 @@
 
 Term: Spring 2022
 
-+ **Team**: Group 5
++ **Team**: Group 4
 + **Project title**: Maximizing Accuracy under Fairness Constraints (C-LR and C-SVM) and Information Theoretic Measures for Fairness-Aware Feature selection (FFS) 
 + **Team members**:
   + Jiachen Hu
