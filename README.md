@@ -1,6 +1,6 @@
 # Python for Data Analysis: Presentation Assignment
 
-<img src="figs/heartrate.png" width="800">
+<img src="figs/heartrate.png" width="750">
 
 Term: Spring 2022
 
